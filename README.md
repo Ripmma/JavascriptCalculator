@@ -1,4 +1,3 @@
 # JavascriptCalculator
 
-Rene I Pereyra
-Jennifer Paulino
+## Rene I Pereyra and Jennifer Paulino
